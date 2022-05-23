@@ -1,1 +1,1 @@
-basic full-stack application, implemented with git 
+basic web app for learning tools such as HTML, CSS, and JavaScript. 
