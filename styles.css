@@ -1,0 +1,23 @@
+
+
+*  {
+    font-family: "Georgia";
+
+}
+
+.top {
+    text-align: center;
+    background-color: grey;
+}
+
+
+img {
+    height: auto;
+    width: 500px; 
+}
+
+li a {
+    color: red;
+    font-size: 18px;
+
+}
